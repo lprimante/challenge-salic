@@ -1,0 +1,26 @@
+.card-footer {
+    margin: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-footer-icons {
+    font-size: 2rem;
+    color: #b8b8b8;
+}
+
+.card-footer-icons .icon {
+    margin: 0 5px;
+}
+
+.card-footer-button {
+    background-color: aliceblue;
+    color: #5c80bc;
+    font-size: 1rem;
+    font-weight: 900;
+    border-radius: 5px;
+    border: 1px solid white;
+    box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.4);
+    padding: 10px;
+}

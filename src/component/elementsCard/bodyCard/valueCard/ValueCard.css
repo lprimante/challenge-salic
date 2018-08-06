@@ -1,0 +1,29 @@
+.card-value {
+    margin: 25px 0;
+}
+
+.card-value p {
+    margin: 5px;
+}
+
+.card-value-approved {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: lightseagreen;
+    background: linear-gradient(to right, rgba(208,244,203,1) 0%,rgba(172,223,170,1) 36%,rgba(107,186,112,0) 100%);
+    padding: 0 15px;
+    border-radius: 5px;
+    margin: 5px 0;
+}
+
+.card-value-captured {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #5c80bc;
+    background: linear-gradient(to right, rgba(201,239,238,1) 0%,rgba(167,220,193,1) 36%,rgba(107,186,112,0) 100%);
+    padding: 0 15px;
+    border-radius: 5px;
+    margin: 5px 0;
+}

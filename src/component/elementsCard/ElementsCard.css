@@ -1,0 +1,10 @@
+.card {
+    width: 30%;
+    min-width: 330px;
+    background-color: white;
+    margin: 15px;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.4);
+}
+

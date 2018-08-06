@@ -1,0 +1,9 @@
+.card-body {
+    margin: 15px;
+}
+
+.card-body-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}

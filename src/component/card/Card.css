@@ -1,0 +1,7 @@
+.cards-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5px;
+    justify-content: center;
+    align-items: center;
+}
